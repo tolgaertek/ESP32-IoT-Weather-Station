@@ -78,10 +78,11 @@ This project serves as a foundational layer for Edge AI applications. Future ite
 * **Power Optimization:** Implementing Deep Sleep modes for battery-powered field operation.
 
 ## 👨‍💻 Author
-
+**Tolga Ertek**
+* *Computer Engineering Student*
 **Muhammet Vefa Yoksul**
 * *Computer Engineering Student*
-* *Interests: IoT, Embedded Systems, Artificial Intelligence & Data Science.*
+
 
 ---
 *Built with ❤️ using ESP32 & C++*
